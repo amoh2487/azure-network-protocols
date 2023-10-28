@@ -70,4 +70,14 @@ The very next step is to connect our virtual machines that we have created earli
 
 
 Once we are inside Remote Desktop Connection, we go to the search browser and install Wireshark. The reason for why we install this software is because Wireshark allows us to see what is happening on our network at a micro level. Also, Wireshark allows us the users understand traffic on our networks and diagnose problems if they arise; and this happens by Wireshark capturing and displaying the data that is over our network in real life time.
+</p>
+<br />
 
+<p>
+</p>
+<p>
+
+![image](https://github.com/amoh2487/azure-network-protocols/assets/148664179/3be7302a-dac3-4b06-b6c4-5fc831d181aa)
+
+
+Here, we have created an ICMP for 

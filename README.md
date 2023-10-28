@@ -61,3 +61,13 @@ The very next step in inspecting traffic between Azure virtual machines is to cr
 The very next step is to connect our virtual machines that we have created earlier to Remote Desktop Connection successfully. To do this, we copy the Public IP Adress from one of the virtual machines and paste it on the Remote Desktop for when it asks about the Public IP Address. After that is done, we then have to put in the username and password we created earlier for our virtual machines; and if the two previous steps were done successfully, we should now connect to Remote Desktop Connection successfully.
 </p>
 <br />
+
+<p>
+</p>
+<p>
+
+![image](https://github.com/amoh2487/azure-network-protocols/assets/148664179/f7c35716-4c74-4584-8a61-77f3e4ac4669)
+
+
+Once we are inside Remote Desktop Connection, we go to the search browser and install Wireshark. The reason for why we install this software is because Wireshark allows us to see what is happening on our network at a micro level. Also, Wireshark allows us the users understand traffic on our networks and diagnose problems if they arise; and this happens by Wireshark capturing and displaying the data that is over our network in real life time.
+

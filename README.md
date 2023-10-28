@@ -92,3 +92,14 @@ Here, we have created an ICMP for pinging virtual machine #2, since ping uses IC
 
 
 We have created SSH network protocol here by connecting from virtual machine#1 to #2. We do this by going to Powershell and typing ssh labuser@ followed by whatever the private IP address is for virtual machine #2, and next we type in the password we also created for virtual machine #2 which we created in the portal when fisrt creating out virtual machines. This allows us permission to the Linux/Ubuntu command machine for virtual machine#2 after our ssh connection is once finally established.
+</p>
+<br />
+
+<p>
+</p>
+<p>
+
+![image](https://github.com/amoh2487/azure-network-protocols/assets/148664179/242c16d0-353c-417a-8161-76ab5d3af2fd)
+
+
+These various commands line tools inside the Powershell is how we can connect one virtual machine to the other because Powershell allows us the users to find the IP addresses either public or private for each virtual machine, helps us with packets in terms of where exactly they come from such as either from a specific website such as www.Amzon.com or from the virtual machines itself. We can see how vital the Powershell software is in trying to connect traffic between virtual machines and how it also helps us to transfer such huge data between virtual machines.

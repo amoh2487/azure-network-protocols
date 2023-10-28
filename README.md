@@ -33,7 +33,6 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <p>
   
-![image](https://github.com/amoh2487/azure-network-protocols/assets/148664179/fcd610b5-cc0d-469c-9ddd-d4291b932c0a)
   
 
 The very first step we do here in order to connect both of the virtual machines is to first create a resource group. The reason we use a resourcce group is because it allows us to the users to manage, organize, and minotor the resources we want to create; such as the two virtual networks here and allows us to create relationships for whatever resource we desire to use.

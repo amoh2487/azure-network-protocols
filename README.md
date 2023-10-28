@@ -8,7 +8,6 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Resource Groups)
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Various Command-Line Tools
@@ -30,10 +29,12 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
+![image](https://github.com/amoh2487/azure-network-protocols/assets/148664179/d39919f7-8d13-4eda-af3f-bd2b2ba2f8c1)
 
 </p>
+<p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-![image](https://github.com/amoh2487/azure-network-protocols/assets/148664179/e7cab7c2-f0f2-4bcd-a64f-39fb4d25df8c)
+</p>
 <br />
 
 <p>

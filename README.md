@@ -80,4 +80,4 @@ Once we are inside Remote Desktop Connection, we go to the search browser and in
 ![image](https://github.com/amoh2487/azure-network-protocols/assets/148664179/3be7302a-dac3-4b06-b6c4-5fc831d181aa)
 
 
-Here, we have created an ICMP for 
+Here, we have created an ICMP for pinging virtual machine #2, since ping uses ICMP whcih stands for internet messaging protocol, and also the purpose of the ping is to test connectivity to different hosts on the internet or network. To do this, we first open the Wireshark software and click on the ethernet function to let start capturing our packets traffic for virtual machine #1, and then we type icmp on Wireshark which stops all traffic. Then we go and figure out what the private IP address is for virtual machine #2, and once we go and figure that out, we go to thr Powershell software and type ping followed by whateever the private IP address is for virtual machine #2.

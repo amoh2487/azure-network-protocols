@@ -81,3 +81,14 @@ Once we are inside Remote Desktop Connection, we go to the search browser and in
 
 
 Here, we have created an ICMP for pinging virtual machine #2, since ping uses ICMP whcih stands for internet messaging protocol, and also the purpose of the ping is to test connectivity to different hosts on the internet or network. To do this, we first open the Wireshark software and click on the ethernet function to let start capturing our packets traffic for virtual machine #1, and then we type icmp on Wireshark which stops all traffic. Then we go and figure out what the private IP address is for virtual machine #2, and once we go and figure that out, we go to thr Powershell software and type ping followed by whateever the private IP address is for virtual machine #2.
+</p>
+<br />
+
+<p>
+</p>
+<p>
+
+![image](https://github.com/amoh2487/azure-network-protocols/assets/148664179/12b0ad95-118f-415b-a168-50596b1ec46b)
+
+
+We have created SSH network protocol here by connecting from virtual machine#1 to #2. We do this by going to Powershell and typing ssh labuser@ followed by whatever the private IP address is for virtual machine #2, and next we type in the password we also created for virtual machine #2 which we created in the portal when fisrt creating out virtual machines. This allows us permission to the Linux/Ubuntu command machine for virtual machine#2 after our ssh connection is once finally established.

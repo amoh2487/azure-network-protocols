@@ -6,10 +6,6 @@
 In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -39,7 +35,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 ![image](https://github.com/amoh2487/azure-network-protocols/assets/148664179/fcd610b5-cc0d-469c-9ddd-d4291b932c0a)
   
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The very first step we do here in order to connect both of the virtual machines is to first create a resource group. The reason we use a resourcce group is because it allows us to the users to manage, organize, and minotor the resources we want to create; such as the two virtual networks here and allows us to create relationships for whatever resource we desire to use.
 </p>
 <br />
 

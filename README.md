@@ -58,6 +58,6 @@ The very next step in inspecting traffic between Azure virtual machines is to cr
 ![image](https://github.com/amoh2487/azure-network-protocols/assets/148664179/8605926a-86f9-4673-b927-840cf2234814)
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The very next step is to connect our virtual machines that we have created earlier to Remote Desktop Connection successfully. To do this, we copy the Public IP Adress from one of the virtual machines and paste it on the Remote Desktop for when it asks about the Public IP Address. After that is done, we then have to put in the username and password we created earlier for our virtual machines; and if the two previous steps were done successfully, we should now connect to Remote Desktop Connection successfully.
 </p>
 <br />

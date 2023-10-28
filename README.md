@@ -47,7 +47,7 @@ The very first step we do here in order to connect both of the virtual machines 
 ![image](https://github.com/amoh2487/azure-network-protocols/assets/148664179/80dc7063-2a9c-40ba-904e-2ceb1276ad93)
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The very next step in inspecting traffic between Azure virtual machines is to create the virtual machines themselves. The first step is to click on new virtual machine button on Azure and contuinue from there. The steps on creating both of the virtual machines are going to be similar such as both of the virtual machines need to be in the same resource group and both of the virtual machines need to have the same features such as being consistent for the regions for both of them and or both of the machines need to have the same security type. But the steps that are different for both of them are going to be the virtual machine's names and images since here we used Windows 10 Pro for virtual machine #1 and Ubuntu Server for virtual machine #2. Also, we need to rememeber the username and password we created for both of the virtual machines in order to connect to desktop.
 </p>
 <br />
 

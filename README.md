@@ -88,7 +88,7 @@ Here, we have created an ICMP for pinging virtual machine #2, since ping uses IC
 </p>
 <p>
 
-![image](https://github.com/amoh2487/azure-network-protocols/assets/148664179/12b0ad95-118f-415b-a168-50596b1ec46b)
+![image](https://github.com/amoh2487/azure-network-protocols/assets/148664179/9f0d907b-4b45-4893-9d80-b575b7ba734b)
 
 
 We have created SSH network protocol here by connecting from virtual machine#1 to #2. We do this by going to Powershell and typing ssh labuser@ followed by whatever the private IP address is for virtual machine #2, and next we type in the password we also created for virtual machine #2 which we created in the portal when fisrt creating out virtual machines. This allows us permission to the Linux/Ubuntu command machine for virtual machine#2 after our ssh connection is once finally established.

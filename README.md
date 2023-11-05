@@ -22,10 +22,13 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Create a resource group for your virtual machines
-- Step 2
-- Step 3
-- Step 4
+- Create a resource group for your virtual machines on Microsoft Azure
+- Create two seperate virtual machines on Microsoft Azure to inspect between the two
+- Connect to Remote Desktop Connections from the virtual machines created earlier
+- Install Wireshark to see what is specifically happening to our network
+- Create an ICMP on Wireshark to ping virtual machine #2 in order to test connectivity to different hosts on the internet or network
+- Create a SSH network protocol by connecting from virtual machine#1 to #2 from Powershell
+- Typing/creating various command line tools inside Powershell to find the private or public Ip addresses for each virtual machine to see where each packet is coming from
 
 <h2>Actions and Observations</h2>
 

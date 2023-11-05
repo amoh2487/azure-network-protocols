@@ -106,3 +106,6 @@ We have created SSH network protocol here by connecting from virtual machine#1 t
 
 
 These various commands line tools inside the Powershell is how we can connect one virtual machine to the other because Powershell allows us the users to find the IP addresses either public or private for each virtual machine, helps us with packets in terms of where exactly they come from such as either from a specific website such as www.Amazon.com or from the virtual machines itself. We can see how vital the Powershell software is in trying to connect traffic between virtual machines and how it also helps us to transfer such huge data between virtual machines.
+
+
+After putting/typing with various command tools inside Powershell, we are done.
